@@ -2,7 +2,7 @@
 
 ## This Repo contains small projects and exercises in the form of ipython notebooks
 
-1. Springboard's Spark ML Exercise - Map-Reduce using spark, Spark DataFrames
+1. **Springboard's Spark ML Exercise - Map-Reduce using spark, Spark DataFrames**
   * Here's a bar plot where I counted words from Julius Caesar -
   
   
@@ -10,4 +10,4 @@
 
 
 
-2. Classification of Telecom data from UCI Machine Learing Repo - MLLib
+2. **Classification of Telecom data from UCI Machine Learing Repo - MLLib**
