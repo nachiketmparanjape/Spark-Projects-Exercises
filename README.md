@@ -10,4 +10,4 @@
 
 
 
-### 2. **[Classification of Telecom data from UCI Machine Learing Repo - MLLib](https://github.com/nachiketmparanjape/Spark-Projects-Exercises/blob/master/Telecom_Classification_Spark/ds-for-telco.ipynb,"Jupyter Notebook")**
+### 2. **[Classification of Telecom data from UCI Machine Learing Repo - MLLib](https://github.com/nachiketmparanjape/Spark-Projects-Exercises/blob/master/Telecom_Classification_Spark/ds-for-telco.ipynb, "Jupyter Notebook")**
